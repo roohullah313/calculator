@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+hr{
+    width: 60%;
+    border: 1px solid red;
+}
+
+h3{
+    font-size: 25px;
+    padding-right: 280px;
+    
+}
+::placeholder{
+    color: red;
+    padding:2px;
+}
